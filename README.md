@@ -1,1 +1,0 @@
-This is a GitHub Repository for the Digital Literacy (CSE0001) Vityarthi Project. Here I'll be uploading all the tasks that have been assigned to us and make a new commit everytime i finish a task and/or update any previous task which I had performed.
